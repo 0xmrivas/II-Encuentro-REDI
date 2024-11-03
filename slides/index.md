@@ -36,7 +36,7 @@ El nombre y apellidos de un alumno, de sus padres, su dirección, su número de 
 - ¿Puedo realizar fotografías o vídeos sin consentimiento?<!-- .element: class="fragment" -->
 
 
-### LOPD en Acción
+### LOPD en acción
 
 <img class="r-stretch" style="text-align: center" src="assets/LOPD.png">
 
@@ -296,7 +296,7 @@ comedores?
 
 ---
 
-## Protección de Menores en Línea
+## Protección de menores en línea
 
 <img class="r-stretch" style="text-align: center" src="assets/recursosEducativos.png">
 
@@ -312,7 +312,7 @@ Note:
 
 ---
 
-## Nuetro objetivo: Guía de Supervivencia
+## Nuetro objetivo: Guía de supervivencia
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/guia_supervivencia.png">
 
@@ -351,14 +351,14 @@ Note:
 - Simple Login <!-- .element: class="fragment" -->
 
 
-### Privacidad en la Navegación
+### Privacidad en la navegación
 - Huella digital: Sobreexposición <!-- .element: class="fragment" -->
 - Elige sabiamente que navegador y buscador usar<!-- .element: class="fragment" -->
 - Modo de Navegación Privada <!-- .element: class="fragment" -->
 - Configuraciones de Privacidad y Seguridad <!-- .element: class="fragment" -->
 
 
-### Seguridad en la Navegación
+### Seguridad en la navegación
 - HTTPS en la URL <!-- .element: class="fragment" -->
 - Candado en la barra<!-- .element: class="fragment" -->
 - Certificados válidos <!-- .element: class="fragment" -->
@@ -385,14 +385,14 @@ Note:
 - Uso de apps de seguridad (antivirus, antimalware,...) <!-- .element: class="fragment" -->
 
 
-### Privacidad en Redes Sociales
+### Privacidad en Redes sociales
 - Egosurfings <!-- .element: class="fragment" -->
 - Ajustes de Privacidad <!-- .element: class="fragment" -->
 - Revisión Periódica <!-- .element: class="fragment" -->
 -  <!-- .element: class="fragment" -->
 
 
-### Seguridad en Redes Sociales
+### Seguridad en Redes sociales
 - Contraseñas y Autenticación <!-- .element: class="fragment" -->
 - Prevención de Phishing: Identificar amenazas <!-- .element: class="fragment" -->
 - Actualizaciones de Seguridad <!-- .element: class="fragment" -->
@@ -426,7 +426,7 @@ Note:
 
 ## Descarga los materiales
 
-<img class="r-stretch" style="text-align: center" src="assets/qr-materiales-descargables.png"> -->
+<img class="r-stretch" style="text-align: center" src="assets/qr-materiales-descargables.pdf"> -->
 
 ---
 
@@ -452,6 +452,13 @@ Note:
 ---
 
 ## ¡ Escanea, y Opina !
+
+<img class="r-stretch" style="text-align: center" src="assets/qr-feedback.png">
+
+
+---
+
+## Accesso a los materiales
 
 <img class="r-stretch" style="text-align: center" src="assets/qr-feedback.png">
 
