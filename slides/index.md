@@ -1,19 +1,145 @@
-# Sus datos, tu responsabilidad
+<img class="r-stretch" style="text-align: center" src="assets/logo.png">
+
+---
+
+<!-- <h2 class="r-fit-text" style="text-align: center"> Sus datos, tu responsabilidad </h2>
 
 <img class="r-stretch" style="text-align: center" src="assets/sus-datos-nuestra-responsabilidad.webp">
 
+--- -->
+
+## Protección de datos: reinventando la rueda desde 1999
+
+<img class="r-stretch" style="text-align: center" src="assets/lopd-1999.webp">
+
+---
+
+## Desmitificando la protección de datos
+
+<img class="r-stretch" style="text-align: center" src="assets/LOPDGDD.png">
+
+
+## No es solo burocracia... es protección
+
+<img class="r-stretch" style="text-align: center" src="assets/no-es-burocracia.png">
+
+
+## ¿Alguna vez te has preguntado cuánto valen tus datos?
+
+<img class="r-stretch" style="text-align: center" src="assets/cuanto-valen-nuestros-datos.png">
+
+
+## Tras tus pasos digitales
+
+<img class="r-stretch" style="text-align: center" src="assets/huella-digital.webp">
+
+
+## Actores clave en los riesgos de privacidad
+
+* Corredores de datos<!-- .element: class="fragment" -->
+
+* Gigantes tecnológicos (FAANG)<!-- .element: class="fragment" -->
+
+Note:
+
+Corredores de datos:
+
+* Recopilan y venden información personal.
+* Poca transparencia en sus prácticas.
+* Datos comunes: nombre, dirección, historial de navegación.
+
+Gigantes tecnológicos FAANG (Facebook, Amazon, Apple, Netflix, y Google):
+
+* Acumulan grandes cantidades de datos de usuarios.
+* Personalización de servicios y anuncios dirigidos.
+* Preocupaciones sobre la privacidad y control de la información.
+
+
+## Data Brokers y aplicaciones móviles
+
+<img class="r-stretch" style="text-align: center" src="assets/Diogenes-digital.webp">
+
+
+###
+
+* **Permisos excesivos**. Muchas apps solicitan permisos innecesarios para su función (ej. agenda en apps de comida).
+
+* **Rastreadores invisibles**. Incorporan rastreadores que monitorean actividad en segundo plano.
+<!-- .element: class="fragment" -->
+
+* **Casos reales**. Ejemplo: [Aplicación de McDonald's](https://reports.exodus-privacy.eu.org/es/reports/com.mcdo.mcdonalds/latest/).
+<!-- .element: class="fragment" -->
+
+
+###
+
+* **Análisis propio**. Herramientas como [Exodus Privacy](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy) permiten verificar permisos y rastreadores peligrosos.
+
+* *"Lo que compartes en una app… puede acabar en manos de un broker de datos."*
+<!-- .element: class="fragment" -->
+
+
+### Bajo el hechizo de los gigantes
+
+<img class="r-stretch" style="text-align: center" src="assets/Elige-Sabiamente.webp">
+
+
+###  Google: ¿Privacidad o personalización?
+
+* **Búsquedas y actividad web**: Cada búsqueda y visita crea un perfil detallado de intereses.
+<!-- .element: class="fragment" -->
+
+* **Anuncios dirigidos**. Datos personales = anuncios personalizados = ingresos publicitarios.
+<!-- .element: class="fragment" -->
+
+* **Dispositivos móviles**. Ubicación y actividad monitorizadas en dispositivos Android.
+<!-- .element: class="fragment" -->
+
+
+###
+
+* **Historial de ubicaciones**: Google rastrea tus movimientos y los presenta en mapas interactivos.
+
+<img class="r-stretch" style="text-align: center" src="assets/maps.png">
+
+
+### 
+
+* **Ingresos**. Publicidad = 77,4% de sus ingresos ($237.85 mil millones en 2023).
+
+* *Google: El precio de la personalización es tu privacidad*<!-- .element: class="fragment" -->
+
+
+## Si el servicio es gratuito, el producto eres tú.
+
+---
+
+## Don't panic!
+
+<img class="r-stretch" style="text-align: center" src="assets/calmhd.gif">
+
+---
+
+## Nuestro objetivo...
+
+<img class="r-stretch" style="text-align: center" src="assets/decalogo.webp">
+
+---
 
 ### Según la AEPD...
 
 > Dato de carácter personal no es solo el nombre y los apellidos de una persona, sino toda
 información referida a esta o que pueda identificarla<!-- .element: class="fragment" -->
 
-Note: 
+Note:
 El nombre y apellidos de un alumno, de sus padres, su dirección, su número de teléfono o su correo electrónico son datos de carácter personal. También lo son las imágenes de los alumnos o, por ejemplo, la profesión, los estudios o el lugar donde trabajan los padres, o su número de cuenta bancaria.
 
+---
 
 ### Reflexiona, sobre...
 
+
+###
 - ¿Dónde están los datos de mi alumnado?
 
 - ¿Puedo usar cualquier aplicación libremente?<!-- .element: class="fragment" -->
@@ -31,13 +157,16 @@ El nombre y apellidos de un alumno, de sus padres, su dirección, su número de 
 
 ---
 
-### LOPD en acción
+## LOPDGDD en acción
 
 <img class="r-stretch" style="text-align: center" src="assets/LOPD.webp">
 
+---
 
-### Legitimación para el tratamiento de datos
+## Legitimación para el tratamiento de datos
 
+
+### 
 - El RGPD y la LOPDGDD establece en 14 años la edad límite para prestar el consentimiento.<!-- .element: class="fragment" -->
 
 - Datos necesarios para la función educativa.<!-- .element: class="fragment" -->
@@ -61,8 +190,9 @@ La ley de educación legitima a los centros a recabar datos de carácter persona
 ### 
 <img class="r-stretch" style="text-align: center" src="assets/LOPD1.png">
 
+---
 
-### Recogida de datos por los centros educativos
+## Recogida de datos por los centros educativos
 
 
 ### 
@@ -80,7 +210,6 @@ La ley de educación legitima a los centros a recabar datos de carácter persona
 <img class="r-stretch" style="text-align: center" src="assets/recogidaIII.png"><!-- .element: class="fragment" -->
 
 
-
 ### 
 - ¿Se pueden recabar imágenes de los alumnos para el expediente académico?
 <img class="r-stretch" style="text-align: center" src="assets/recogidaIV.png"><!-- .element: class="fragment" -->
@@ -96,8 +225,9 @@ educativa?
 - ¿Puede un centro educativo acceder al contenido de dispositivos electrónicos de los alumnos, como los sistemas de mensajería instantánea (WhatsApp) o redes sociales?
 <img class="r-stretch" style="text-align: center" src="assets/whatsapp.png"><!-- .element: class="fragment" -->
 
+---
 
-### Tratamiento de los datos de los alumnos
+## Tratamiento de los datos de los alumnos
 
 
 ###
@@ -140,8 +270,9 @@ ayuntamiento para campañas de vacunación o programas de salud escolar
 (bucodental, alimentaria, etc.)? 
 <img class="r-stretch" style="text-align: center" src="assets/serviciosSanitarios.png"><!-- .element: class="fragment" -->
 
+---
 
-### Tratamiento de las imágenes de los alumnos
+## Tratamiento de las imágenes de los alumnos
 
 
 ### 
@@ -171,8 +302,9 @@ el centro educativo, ¿se ha de cancelar dicho evento?
 instalaciones?  
 <img class="r-stretch" style="text-align: center" src="assets/imagenesV.png"><!-- .element: class="fragment" -->
 
+---
 
-### Tratamiento de datos en internet
+## Tratamiento de datos en internet
 
 
 ###
@@ -207,8 +339,9 @@ como fotografías o vídeos?
   - El blog del centro ducativo 
   - Redes sociales
 
+---
 
-### Videovigilancia
+## Videovigilancia
 
 
 ###
@@ -235,7 +368,7 @@ comedores?
 
 ---
 
-### Decálogo
+## Decálogo
 
 
 ### 
@@ -287,156 +420,10 @@ comedores?
 - ¿Evento escolar? Avisemos a las familias de la NO difusión.
 <img class="r-stretch" style="text-align: center" src="assets/decalogo_10.png">
 
-## Desmitificando la ciberseguridad
-
-<img class="r-stretch" style="text-align: center" src="assets/desmitificando.png">
-
 ---
-
-## Nuetro objetivo: Guía de Supervivencia
-
-<img class="r-stretch" style="text-align: center" src="assets/guia_supervivencia.png">
-
----
-
-## Defensa en profundidad y seguridad por capas
-
-<img class="r-stretch" style="text-align: center" src="assets/capas.webp">
-
----
-
-## Protege tu espacio digital
-
-<img class="r-stretch" style="text-align: center" src="assets/protege-espacio-digital.png">
-
----
-
-### Cuando los USB se vuelven contra nosotros
-
-<img class="r-stretch" style="text-align: center" src="assets/usb.png">
-
-
-### 
-
-* Daño físico: "USBs pueden quemar equipos".
-
-* Malware oculto: "Riesgo de virus y spyware".<!-- .element: class="fragment" -->
-
-* Robo de datos: "Extracción silenciosa de info".<!-- .element: class="fragment" -->
-
-* Infiltración de red: "Puerta trasera a sistemas".<!-- .element: class="fragment" -->
-
-
-### El Pato en Acción: Demostrando la Seguridad USB"
-
-<img class="r-stretch" style="text-align: center" src="assets/rubber-ducky.png">
-
-
-### 
-
-* Desconfiar y no conectar a nuestros equipos dispositivos encontrados en espacios públicos o de origen desconocido.
-
-* Deshabilitar la función de autoarranque de dispositivos USB. <!-- .element: class="fragment" -->
-
-* Disponer de un antivirus activo y debidamente actualizado.<!-- .element: class="fragment" -->
-
-
-### Deshabilitar la función de autoarranque de dispositivos USB
-
-<img class="r-stretch" style="text-align: center" src="assets/autoarranque.jpg">
-
-Note:
-De este modo, si por error conectamos un dispositivo USB infectado a nuestro equipo, el malware o las herramientas que contenga no se activarán automáticamente, y podremos analizar y eliminar esas amenazas con un antivirus. En Windows, por ejemplo, para hacerlo deberemos acceder al icono de Windows > Configuración > Dispositivos > Reproducción automática y desactivar esta opción.
-
-
-###
-
-* Una vez conectado, haremos clic derecho sobre él.
-
-* Luego, haremos clic sobre “Analizar con…”
-
-<img class="r-stretch" style="text-align: center" src="assets/analizar_usb.jpg">
-
----
-
-### Mantenimiento y salud digital
-
-<img class="r-stretch" style="text-align: center" src="assets/Mantenimiento-y-salud-digital.webp">
-
-Note:
-En esta sección, destacaremos la importancia del mantenimiento regular y la higiene digital. Veremos cómo una adecuada gestión de la limpieza digital mejora la funcionalidad de nuestros dispositivos y refuerza la seguridad. Examinaremos estrategias para mantener nuestros sistemas actualizados y cómo gestionar de manera segura los permisos de las aplicaciones. También discutiremos la importancia de realizar descargas conscientes. 
-
-
-### El riesgo del síndrome de Diógenes digital
-
-<img class="r-stretch" style="text-align: center" src="assets/Diogenes-digital.webp">
-
-Note: 
-* Cada app extra es un riesgo potencial. 
-
-Cada aplicación sin uso puede ser un talón de Aquiles en la armadura digital que salvaguarda nuestra información. Es importante abordar este desorden con una estrategia de limpieza digital meticulosa, eliminando lo que ya no sirve.
-
-
-### 
-
-* Dedica un momento a revisar todas las aplicaciones instaladas en tu dispositivo
-
-* ¿Cuándo fue la última vez que utilizaste cada una? <!-- .element: class="fragment" -->
-
-* ¿Su presencia es justificable?<!-- .element: class="fragment" -->
-
-
-### 
-
-* Evitar instalaciones innecesarias: seguridad y eficiencia.
-<!-- .element: class="fragment" -->
-
-* Priorizar herramientas esenciales. <!-- .element: class="fragment" -->
-
-* Revisión periódica de aplicaciones en uso. <!-- .element: class="fragment" -->
-
-
-### Actualizaciones: Escudo digital
-
-<img class="r-stretch" style="text-align: center" src="assets/Actualizaciones.png">
-
-Note: 
-Tras realizar una limpieza digital exhaustiva en nuestros dispositivos, es importante entender que este esfuerzo, aunque importante, no es suficiente para asegurar una protección completa. La naturaleza dinámica de las amenazas requiere de medidas adicionales, siendo las actualizaciones que nos ofrecen los fabricantes de software una de ellas.
-
-Las actualizaciones proporcionan correcciones críticas para los sistemas operativos y aplicaciones, abarcando desde ordenadores y smartphones hasta consolas y dispositivos inteligentes. Al mantener nuestros dispositivos al día, cerramos activamente puertas a potenciales vulnerabilidades, actuando como un escudo digital frente a las amenazas más recientes.
-
-* [https://nvd.nist.gov/vuln](https://nvd.nist.gov/vuln)
-
-
-### 
-
-* Comprobar el estado de actualización de todos nuestros dispositivos y aplicaciones. 
-
-* Elegir la opción de actualizaciones automáticas, siempre que esté disponible. <!-- .element: class="fragment" -->
-
-* No posponer la instalación de actualizaciones, especialmente las relacionadas con sistemas operativos, navegadores y antivirus. <!-- .element: class="fragment" -->
-
-
-### Permisos a tu medida
-
-<img class="r-stretch" style="text-align: center" src="assets/Permisos-a-Tu-Medida.webp">
-
-Note: 
-Tras depurar nuestro entorno digital y actualizar sistemas y aplicaciones, surge una pregunta esencial: ¿sabemos realmente a qué información acceden las aplicaciones que usamos? 
-
-Muchas veces, las aplicaciones gratuitas solicitan permisos para acceder a funciones esenciales, como usar el micrófono para una app de grabación. Sin embargo, algunas van más allá, pidiendo acceso a tu ubicación, contactos y más, lo cual puede parecer innecesario. Este es el "negocio" detrás de muchas apps gratuitas: recopilan tu información personal y la utilizan con fines publicitarios o simplemente venderla al mejor postor. Y lo más sorprendente es que, al instalar estas apps y aceptar sus permisos, les damos legalmente el derecho a hacerlo.
-
-
-### 
-
-* Verificar que las aplicaciones solo accedan a permisos imprescindibles.
-
-* Modificar los permisos que no sean necesarios para realizar las funciones de la aplicación o que comprometan la privacidad. <!-- .element: class="fragment" -->
-
-* Utilizar herramientas externas para gestionar los permisos de forma efectiva. <!-- .element: class="fragment" -->
-
 
 ## Un poco de ayuda extra...
+
 
 ### Exodus privacy
 
@@ -521,13 +508,6 @@ Llegados a este punto, nos enfrentamos a una paradoja de la era digital: cuanto 
 
 <small>[Enlace a la web de Bitwarden](https://bitwarden.com/)</small>
 
----
-
-## Protección de amenazas en línea
-
-<img class="r-stretch" style="text-align: center" src="assets/Proteccion-de-amenzas-en-linea.webp">
-
----
 
 ### Detectives digitales
 
@@ -661,7 +641,6 @@ Note:
 * Filepuma.com: Un repositorio que destaca por su simplicidad y organización, ofreciendo una amplia variedad de programas con capturas de pantalla y versiones antiguas para descargar.
 * Majorgeeks.com: Especializada en la difusión de freeware, esta web ofrece software propietario de alta calidad de forma gratuita, sin la necesidad de instalar software adicional no deseado.
 
----
 
 ### Correos fortificados
 
@@ -714,97 +693,6 @@ Note: Se puede utilizar en conjunto con servicios de correo electrónico como Gm
 ### 
 
 <img class="r-stretch" style="text-align: center" src="assets/private.png">
-
----
-
-## La LOPD y su aplicación en el ámbito educativo
-
-<img class="r-stretch" style="text-align: center" src="assets/LOPD.webp">
-
-
-## Sus datos, nuestra responsabilidad
-
-<img class="r-stretch" style="text-align: center" src="assets/sus-datos-nuestra-responsabilidad.webp">
-
-
-### Según la AEPD...
-
-> Dato de carácter personal no es solo el nombre y los apellidos de una persona, sino toda
-información referida a esta o que pueda identificarla<!-- .element: class="fragment" -->
-
-Note: 
-El nombre y apellidos de un alumno, de sus padres, su dirección, su número de teléfono o su correo electrónico son datos de carácter personal. También lo son las imágenes de los alumnos o, por ejemplo, la profesión, los estudios o el lugar donde trabajan los padres, o su número de cuenta bancaria.
-
-
-### Reflexiona, sobre...
-
-- ¿Dónde están los datos de mi alumnado?
-
-- ¿Puedo usar cualquier aplicación libremente?<!-- .element: class="fragment" -->
-
-- ¿Quién tiene la responsabilidad?<!-- .element: class="fragment" -->
-
-
-###
-
-- Si quiero comunicarme con mi alumnado... ¿Qué opciones tengo?
-
-- ¿Necesito su permiso para utilizar información personal?<!-- .element: class="fragment" -->
-
-- ¿Puedo realizar fotografías o vídeos sin consentimiento?<!-- .element: class="fragment" -->
-
-
-### Decálogo
-
-
-### 
-- Necesitamos sus datos personales
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_1.png">
-
-
-### 
-- Estamos legitimados
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_3.png">
-
-
-### 
-- Con responsabilidad
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_2.png">
-
-
-### 
-- Informando de cada acción
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_4.png">
-
-
-### 
-- Pediendo permiso para el uso de Apps
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_5.png">
-
-
-### 
-- El centro debe disponer de una guía
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_6.png">
-
-
-### 
-- Comunicaciones por canales oficiales
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_7.png">
-
-
-### 
-- No se recomienda el uso de whatsapp
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_8.png">
-
-
-### 
-- Grabar si, difudir No
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_9.png">
-
-
-### 
-- ¿Evento escolar? Avisemos a las familias de la NO difusión.
-<img class="r-stretch" style="text-align: center" src="assets/decalogo_10.png">
 
 ---
 
