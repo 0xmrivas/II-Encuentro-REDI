@@ -26,3 +26,16 @@ Para garantizar un manejo adecuado de la información y cumplir con las normativ
 - [Informe sobre la utilización de aplicaciones en nube (AEPD)](https://www.aepd.es/guias/guia-orientaciones-apps-datos-alumnos.pdf). Análisis detallado sobre el uso de aplicaciones de almacenamiento en la nube en el ámbito educativo y sus implicaciones en la protección de datos.
 
 - [Guía de Protección de Datos para centros educativos (Junta de Andalucía)](https://www.ctpdandalucia.es/sites/default/files/inline-files/guia-proteccion-datos-centros-educativos-andalucia.pdf). Guía específica para centros educativos en Andalucía que detalla las obligaciones y mejores prácticas en protección de datos personales.
+
+## Un poco de ayuda extra
+
+La protección de datos no es solo documentación y trabajo burocrático, sino que implica aplicar medidas de seguridad concretas y efectivas. En los centros educativos, donde se manejan grandes cantidades de datos confidenciales sobre alumnado, familias y personal, la ciberseguridad debe ser una prioridad. Cada vez es más común el uso de dispositivos personales (BYOD), lo que requiere medidas de seguridad adicionales para proteger estos datos.
+
+Para facilitar esta tarea, aquí tienes un curso que elaboré específicamente enfocado en la [ciberseguridad en el ámbito educativo](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/). Este curso aborda prácticas de seguridad adaptadas al contexto escolar y te ayudará a implementar medidas concretas en tu centro.
+
+### Módulos del curso:
+
+* [Bloque 1. Protege tu espacio digital](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/bloque1)
+* [Bloque 2. Navegación sin sobresaltos](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/bloque2)
+* [Bloque 3. Protección frente a amenazas en línea](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/bloque3)
+* [Bloque 4. Ciber escudos y secretos digitales](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/bloque4)

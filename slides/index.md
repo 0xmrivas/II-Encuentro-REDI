@@ -163,7 +163,7 @@ El nombre y apellidos de un alumno, de sus padres, su dirección, su número de 
 
 ---
 
-### ¿Listos para aplicar la LOPD en casos reales?
+### ¿Listos para aplicar la LOPDGDD en casos reales?
 
 <img class="r-stretch" style="text-align: center" src="assets/casos-practicos.JPG">
 
