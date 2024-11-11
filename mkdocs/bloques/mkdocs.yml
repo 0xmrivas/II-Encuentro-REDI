@@ -1,5 +1,5 @@
 INHERIT: ../base.yml
-site_name: La ciberseguridad en el entorno educativo
+site_name: "II Encuentro Redi: Creando conexiones – desde el liderazgo hasta la transformación"
 site_dir: ../../docs/bloques
 
 plugins:
