@@ -23,6 +23,6 @@ Para garantizar un manejo adecuado de la información y cumplir con las normativ
 
 - [Orientaciones sobre dispositivos móviles en centros educativos](https://www.aepd.es/guias/responsabilidades-uso-dispositivos-moviles-centros-docentes.pdf). Documento que aborda los desafíos específicos relacionados con el uso de dispositivos móviles en el ámbito escolar.
 
-- [Informe sobre la utilización de aplicaciones en nube (AEPD)](https://www.aepd.es/es/documento/informe-apps-nube.pdf). Análisis detallado sobre el uso de aplicaciones de almacenamiento en la nube en el ámbito educativo y sus implicaciones en la protección de datos.
+- [Informe sobre la utilización de aplicaciones en nube (AEPD)](https://www.aepd.es/guias/guia-orientaciones-apps-datos-alumnos.pdf). Análisis detallado sobre el uso de aplicaciones de almacenamiento en la nube en el ámbito educativo y sus implicaciones en la protección de datos.
 
 - [Guía de Protección de Datos para centros educativos (Junta de Andalucía)](https://www.ctpdandalucia.es/sites/default/files/inline-files/guia-proteccion-datos-centros-educativos-andalucia.pdf). Guía específica para centros educativos en Andalucía que detalla las obligaciones y mejores prácticas en protección de datos personales.
