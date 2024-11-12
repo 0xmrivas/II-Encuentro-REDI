@@ -29,7 +29,7 @@ Para garantizar un manejo adecuado de la información y cumplir con las normativ
 
 ## Un poco de ayuda extra
 
-Además de los recursos compartidos, te dejamos una una herramienta adicional para facilitar la consulta de dudas sobre protección de datos en el entorno escolar: [Asistente LOPD para Centros Educativos](https://chatgpt.com/g/g-673318670a9c81908bc5030c40204082-asistente-lopd-para-centros-educativos). Este asistente, aún en fase experimental, está diseñado para responder preguntas y ofrecer orientación en temas de privacidad y protección de datos aplicados al ámbito educativo, y puede ser una herramienta útil en ciertos momentos.
+Además de los recursos compartidos, te dejamos una una herramienta adicional para facilitar la consulta de dudas sobre protección de datos en el entorno escolar: [asistente LOPD para centros educativos](https://chatgpt.com/g/g-673318670a9c81908bc5030c40204082-asistente-lopd-para-centros-educativos). Este asistente, aún en fase experimental, está diseñado para responder preguntas y ofrecer orientación en temas de privacidad y protección de datos aplicados al ámbito educativo, y puede ser una herramienta útil en ciertos momentos.
 
 Es importante recordar que, aunque este asistente puede resultar de ayuda, no es infalible. Siempre es recomendable verificar la información proporcionada y consultar fuentes oficiales cuando se necesite una respuesta precisa.
 
