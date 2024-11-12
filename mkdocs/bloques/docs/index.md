@@ -37,7 +37,7 @@ Es importante recordar que, aunque este asistente puede resultar de ayuda, no es
 
 La protección de datos no es solo documentación y trabajo burocrático, sino que implica aplicar medidas de seguridad concretas y efectivas. En los centros educativos, donde se manejan grandes cantidades de datos confidenciales sobre alumnado, familias y personal, la ciberseguridad debe ser una prioridad. Cada vez es más común el uso de dispositivos personales (BYOD), lo que requiere medidas de seguridad adicionales para proteger estos datos.
 
-Para facilitar esta tarea, aquí tienes un curso que elaboré específicamente enfocado en la [ciberseguridad en el ámbito educativo](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/). Este curso aborda prácticas de seguridad adaptadas al contexto escolar y te ayudará a implementar medidas concretas en tu centro.
+Para facilitar esta tarea, aquí tienes un curso específicamente enfocado en la [ciberseguridad en el ámbito educativo](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/). Este curso aborda prácticas de seguridad adaptadas al contexto escolar y te ayudará a implementar medidas concretas en tu centro.
 
 ### Módulos del curso:
 
