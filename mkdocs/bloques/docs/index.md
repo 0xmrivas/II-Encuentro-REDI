@@ -29,6 +29,12 @@ Para garantizar un manejo adecuado de la información y cumplir con las normativ
 
 ## Un poco de ayuda extra
 
+Además de los recursos compartidos, te dejamos una una herramienta adicional para facilitar la consulta de dudas sobre protección de datos en el entorno escolar: el **[Asistente LOPD para Centros Educativos](https://chatgpt.com/g/g-673318670a9c81908bc5030c40204082-asistente-lopd-para-centros-educativos)**. Este asistente, aún en fase experimental, está diseñado para responder preguntas y ofrecer orientación en temas de privacidad y protección de datos aplicados al ámbito educativo, y puede ser una herramienta útil en ciertos momentos.
+
+Es importante recordar que, aunque este asistente puede resultar de ayuda, no es infalible. Siempre es recomendable verificar la información proporcionada y consultar fuentes oficiales cuando se necesite una respuesta precisa.
+
+## Protección de datos y ciberseguridad práctica en centros educativos
+
 La protección de datos no es solo documentación y trabajo burocrático, sino que implica aplicar medidas de seguridad concretas y efectivas. En los centros educativos, donde se manejan grandes cantidades de datos confidenciales sobre alumnado, familias y personal, la ciberseguridad debe ser una prioridad. Cada vez es más común el uso de dispositivos personales (BYOD), lo que requiere medidas de seguridad adicionales para proteger estos datos.
 
 Para facilitar esta tarea, aquí tienes un curso que elaboré específicamente enfocado en la [ciberseguridad en el ámbito educativo](https://0xmrivas.github.io/ciberseguridad-ambito-educativo-online/). Este curso aborda prácticas de seguridad adaptadas al contexto escolar y te ayudará a implementar medidas concretas en tu centro.
