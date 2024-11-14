@@ -27,7 +27,7 @@ Para garantizar un manejo adecuado de la información y cumplir con las normativ
 
 - [Guía de Protección de Datos para centros educativos (Junta de Andalucía)](https://www.ctpdandalucia.es/sites/default/files/inline-files/guia-proteccion-datos-centros-educativos-andalucia.pdf). Guía específica para centros educativos en Andalucía que detalla las obligaciones y mejores prácticas en protección de datos personales.
 
-- [Aplicaciones educativas de la Generalitat Valenciana](https://portal.edu.gva.es/appsedu/es/aplicaciones/). Plataforma que centraliza aplicaciones educativas con un enfoque en la privacidad y seguridad de los datos, promovida por la Generalitat Valenciana. Aunque no pertenece a la Consejería de Educación de Andalucía, pueden servirnos de referencia.
+- [Aplicaciones educativas de la Generalitat Valenciana](https://portal.edu.gva.es/appsedu/es/aplicaciones/). Plataforma que centraliza aplicaciones educativas evaluadas con un enfoque en la privacidad y la seguridad de los datos. Aunque no pertenece a la Consejería de Educación de Andalucía, este recurso es útil como referencia, ya que incluye aplicaciones que han pasado un filtro de análisis en protección de datos, ofreciendo una base fiable para guiar la selección de herramientas educativas. Aunque no podamos asegurar que cumplan al 100% con los requisitos de protección de datos, estas aplicaciones han sido sometidas a un análisis de seguridad y privacidad por la Generalitat Valenciana.
 
 ## Un poco de ayuda extra
 
