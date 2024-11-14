@@ -17,7 +17,7 @@ Al finalizar el taller, se ofrecerán recursos adicionales que facilitarán la i
 
 ## Recursos útiles
 
-Para garantizar un manejo adecuado de la información y cumplir con las normativas de protección de datos, es fundamental que los centros educativos se apoyen en recursos actualizados y fiables. A continuación, se presentan cuatro guías imprescindibles que ofrecen orientación detallada y prácticas recomendadas en la gestión de datos en el ámbito educativo:
+Para garantizar un manejo adecuado de la información y cumplir con las normativas de protección de datos, es fundamental que los centros educativos se apoyen en recursos actualizados y fiables. A continuación, se presentan algunas guías y recursos que ofrecen orientación detallada y prácticas recomendadas en la gestión de datos en el ámbito educativo:
 
 - [Guía para centros educativos de la AEPD](https://www.aepd.es/es/documento/guia-centros-educativos.pdf). Recurso esencial que proporciona orientaciones detalladas sobre cómo aplicar la normativa de protección de datos en el entorno educativo.
 
@@ -26,6 +26,8 @@ Para garantizar un manejo adecuado de la información y cumplir con las normativ
 - [Informe sobre la utilización de aplicaciones en nube (AEPD)](https://www.aepd.es/guias/guia-orientaciones-apps-datos-alumnos.pdf). Análisis detallado sobre el uso de aplicaciones de almacenamiento en la nube en el ámbito educativo y sus implicaciones en la protección de datos.
 
 - [Guía de Protección de Datos para centros educativos (Junta de Andalucía)](https://www.ctpdandalucia.es/sites/default/files/inline-files/guia-proteccion-datos-centros-educativos-andalucia.pdf). Guía específica para centros educativos en Andalucía que detalla las obligaciones y mejores prácticas en protección de datos personales.
+
+- [Aplicaciones educativas de la Generalitat Valenciana](https://portal.edu.gva.es/appsedu/es/aplicaciones/). Plataforma que centraliza aplicaciones educativas con un enfoque en la privacidad y seguridad de los datos, promovida por la Generalitat Valenciana. Aunque no pertenece a la Consejería de Educación de Andalucía, pueden servirnos de referencia.
 
 ## Un poco de ayuda extra
 
